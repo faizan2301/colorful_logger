@@ -1,7 +1,7 @@
 name: colorful_logger
-description: A starting point for Dart libraries or applications.
+description: This package is use to show logs in different colors.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/faizan2301/colorful_logger
 
 environment:
   sdk: ^3.5.4
