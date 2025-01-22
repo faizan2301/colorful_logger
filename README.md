@@ -22,7 +22,7 @@ Add the following dependency to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  colorful_logger: ^0.0.1
+  colorful_logger: ^1.0.0
 ```
 
 Run the command:
