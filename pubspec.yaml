@@ -1,6 +1,6 @@
 name: colorful_logger
 description: A simple and customizable logger package for Flutter and Dart, adding colorful output to make debugging and log tracking easier and more efficient.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/faizan2301/colorful_logger
 
 environment:
